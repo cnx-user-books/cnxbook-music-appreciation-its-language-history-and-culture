@@ -1,0 +1,161 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Chapter 1: Elements of Music</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m55670</md:content-id>
+  <md:title>Chapter 1: Elements of Music</md:title>
+  <md:abstract>Chapter 1 of textbook: Music: It's Language, History and Culture. Music 1300 is a site for students of Music Appreciation, both at Brooklyn College and around the world. The textbook for Music Appreciation is presented here, including its pdf, e-pub, and linked media.</md:abstract>
+  <md:uuid>776c8ace-20a2-4144-b09c-b12cee89ffd2</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="example">
+      <link url="http://www.nytimes.com/interactive/2012/04/06/arts/music/the-connection-between-gesture-and-music.html?_r=0" strength="3">NY Times on Conducting Gestures</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="eip-130"><title>Chapter 1: Elements of Sound and Music</title>
+
+<para id="eip-821"><media id="Ch" alt="Ch">
+      <image mime-type="image/jpeg" src="../../media/ch1-color.gif" height="391" width="800"/>
+   </media>
+</para></section><para id="import-auto-id1166938469148">Making music has been an activity of human beings, both as individuals and with  others, for thousands of years.  Written texts, pictorial representations, and folklore sources provide evidence that people from  all  over  the  globe and from  the  beginnings of recorded history have created and performed music for  religious rituals, civil  ceremonies, social functions, story  telling, and self-expression. Some  of the  terminology, concepts, and vocabulary used by musicians in writing and talking about the  many types  of music you  will be studying are discussed in this  section on  elements of sound and music.</para>
+    <para id="import-auto-id1166938022712"><title>Elements of Sound</title></para><para id="import-auto-id1166933658518">From the perspective of a musician, anything that is capable of producing sound is a potential instrument for musical exploitation. What we perceive as sound are vibrations (sound waves) traveling through a medium (usually air)  that are  captured by  the  ear  and converted into electrochemical signals that are  sent  to the  brain to be processed.</para>
+    <para id="import-auto-id1166933076606">Since  sound is a wave, it has all  of the  properties attributed to any wave, and these attributes are  the  four  elements that define any and all  sounds.  They  are  the  frequency, amplitude, wave form  and duration, or in musical terms, pitch, dynamic, timbre (tone color), and duration.</para>
+    <table id="import-auto-id1166937358980" summary="Example 1.1"><title>Example 1.1</title>
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <thead>
+          <row>
+            <entry>Element</entry>
+            <entry>Musical Term</entry>
+            <entry>Definition</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Frequency</entry>
+            <entry>Pitch</entry>
+            <entry>How high or low</entry>
+          </row>
+          <row>
+            <entry>Amplitude</entry>
+            <entry>Dynamic</entry>
+            <entry>How loud or soft</entry>
+          </row>
+          <row>
+            <entry>Wave form</entry>
+            <entry>Timbre</entry>
+            <entry>Unique tone color  of each instrument</entry>
+          </row>
+          <row>
+            <entry>Duration</entry>
+            <entry>Duration</entry>
+            <entry>How long or short</entry>
+          </row>
+        </tbody>
+      
+
+
+</tgroup>
+</table><para id="import-auto-id1166935399101"><title><emphasis effect="italics">Frequency</emphasis></title>The frequency, or pitch, is the element of sound that we are best able to hear. We are mesmerized
+when a singer reaches a particularly high note at the climax of a song, just as we are when a
+dancer makes a spectacularly difficult leap. We feel very low notes (low pitches) in a physical
+way as well, sometimes expressing dark or somber sentiments as in music by country singers
+like Johnny Cash, and other times as the rhythmic propulsion of low-frequency pulsations in
+electronically amplified dance music.
+
+    </para><para id="import-auto-id1166933883730">The ability to distinguish pitch varies from person to person, just as different people
+are better and less capable at distinguishing different colors (light frequency). Those who are
+especially gifted recognizing specific pitches are said to have “perfect pitch.” On the other hand,
+just as there are those who have difficulty seeing the difference in colors that are near each other in the light spectrum (color-blind), there are people who have trouble identifying pitches that are close to each other. If you consider yourself to be such a “tone-deaf” person, do not fret. The great American composer Charles Ives considered the singing of the tone-deaf caretaker at his church to be some of the most genuine and expressive music he experienced.
+</para><para id="import-auto-id1166934064905">An audio compact disc is able to record sound waves that vibrate as slow as 20 times per
+second (20 Hertz = 20 Hz) and as fast as 20,000 times per second (20,000 Hertz = 20 kiloHertz =
+20 kHz). Humans are able to perceive sounds from approximately 20 Hz to 15 kHz, depending
+on age, gender, and noise in the environment. Many animals are able to perceive sounds
+much higher in pitch.
+       </para><para id="import-auto-id1166934557914">When musicians talk about being “in tune” and “out of tune,” they are talking about
+pitch, but more specifically, about the relationship of one pitch to another. In music we often
+have a succession of pitches, which we call a melody, and also play two or more pitches at
+the same time, which we call harmony. In both cases, we are conscious of the mathematical
+distance between the pitches as they follow each other horizontally (melody) and vertically
+(harmony). The simpler the mathematical relationship between the two pitches, the more
+consonant it sounds and the easier it is to hear if the notes are in tune.</para><para id="import-auto-id1166935926548">The  simplest relationship of one  pitch to another is called the  octave.  The  octave is so fundamental that we give  two  pitches an octave apart the  same letter name.  The  ratio between notes an octave apart is 2:1.   If we have a note vibrating at 400  Hz, the  pitch an octave higher vibrates at 800  Hz (2 * 400  Hz).  The pitch an octave lower  than 400  Hz has a frequency of 200 Hz (400  Hz / 2).</para>
+    <para id="eip-105">The simplest relationship of one pitch to another is called the octave. The octave is
+so fundamental that we give two pitches an octave apart the same letter name. The ratio
+between notes an octave apart is 2:1. If we have a note vibrating at 400 Hz, the pitch an
+octave higher vibrates at 800 Hz (2 * 400 Hz). The pitch an octave lower than 400 Hz has a
+frequency of 200 Hz (400 Hz / 2).</para><para id="eip-129"><title>Example 1.1: Two sound waves one octave apart. The bottom  is 1/400th  of a second of a sine wave vibrating at 400 Hz.</title><media id="ch.1.Ex.1.1" alt="Ex.1.1.Ch.1">
+	   
+  <image mime-type="image/jpeg" src="../../media/example1.1.jpg"/>
+		 
+</media>
+
+<media id="octave" alt="two notes one octave apart wave form">
+  <audio mime-type="audio/mp3" src="octave.mp3" controller="true"/>
+</media>
+
+</para><para id="eip-362"><title>Example 1.2: Two sound waves with the same frequency, the top is 10 db softer than the bottom.</title><media id="ch.1.Ex.1.2" alt="Ex.1.2.Ch.2">
+	   
+  <image mime-type="image/jpeg" src="../../media/example1.2.jpg" width="240" height="200"/>
+		 
+</media>
+
+<media id="amplitude" alt="amplitude wave form">
+  <audio mime-type="audio/mp3" src="amplitude.mp3" controller="true"/>
+</media>
+
+</para><section id="import-auto-id1166932961782">
+      <para id="import-auto-id1166932004524"><title><emphasis effect="italics">Amplitude</emphasis></title>Amplitude is the  amount of energy contained in  the  sound wave and is perceived as  being either loud or soft.   Amplitude is measured in  decibels, but  our  perception of loud and soft changes depending on the  sounds around us.  Walking down a busy  street at noon where the noise in the environment might average 50 decibels, we would find it difficult to hear the voice of a person next to us speaking at 40 decibels.  On  that same street at night that 40 decibel speaking voice  will seem  like a shout when the  surrounding noise is only  about 30 decibels.</para><para id="import-auto-id5943140"><title><emphasis effect="italics">Wave Form</emphasis></title>The wave form  of a sound determines the tone color, or timbre that we hear and is how we can tell the  difference between the  sound produced by a voice,  a guitar, and a saxophone even if they are  playing the  same frequency at the  same amplitude.</para><para id="import-auto-id1166933803277">The  simplest wave form  is the  sine  wave, which we  have seen  diagrammed in  the examples for frequency and amplitude above.  Pure  sine  waves rarely occur  in  nature but they can easily be created through electronic means.  An instrument with  a timbre close  to the  purity of a sine wave is the  flute.  The  violin section of the  orchestra, by contrast, has a much more complex timbre as seen  in its wave form  below.</para><para id="eip-696"><title>Example 1.3: Wave form of a solo flute</title><media id="solo_flute_wave_form" alt="soloflutewaveform">
+	   
+  <image mime-type="image/jpeg" src="../../media/example1.3.jpg" width="240"/>
+		 
+</media>
+
+
+<media id="flute" alt="solo flute wave form">
+  <audio mime-type="audio/mp3" src="flute.mp3" controller="true"/>
+</media>
+
+</para></section>
+
+    <para id="eip-707"><title>Example 1.4: Wave form of a violin string section</title><media id="wave_form_string_section" alt="wave form of string section.">
+	   
+  <image mime-type="image/jpeg" src="../../media/example1.4.jpg" width="240"/>
+		 
+</media>
+
+<media id="violins" alt="violin section wave form">
+  <audio mime-type="audio/mp3" src="violins.mp3" controller="true"/>
+</media></para><section id="import-auto-id1166936795831">
+      <para id="import-auto-id1166929226233">
+        <emphasis effect="italics">Duration</emphasis>
+      </para>
+      <para id="import-auto-id1166932704287">Every sound event has its unique duration, which we perceive as  being either short or long, depending on the  context.  Several durations, one  after another, create the  rhythm of a piece.</para>
+      <para id="import-auto-id1166936856268">Elements of Music</para>
+      <para id="import-auto-id6103719"><title><emphasis effect="italics">Rhythm</emphasis></title>All music involves the unfolding of sounds in time. Some of the terminology used in describing music therefore refers  to the  durational and temporal organization of musical sounds.  The attack points of  a sequence of  sounds produce <emphasis effect="italics">rhythm</emphasis>.   The  three syllables of  the  word “strawberry” can be pronounced at evenly spaced intervals (straw-ber-ry), or the  first syllable can be stretched out,  producing one  long and two shorter durations  (straaaaw-ber-ry)—two different speech rhythms.  The  speech rhythm of “My country, ‘tis of thee” moves in  evenly spaced syllables up  to  “tis,”  which is elongated,  followed by  “of,”  which is cut  short and leads directly to “thee”—ta ta ta taaa t-ta.  In both vocal and instrumental music, rhythm is generated by the  onset of new  sounds, whether the  progression from  one  word  or syllable to the  next in a song, the  succession of pitches of a violin melody, the  striking of a drum, or the strumming of chords on  a guitar.</para><para id="import-auto-id1166935523576"><title><emphasis effect="italics">Meter</emphasis>       </title>The  succession of  attacks and durations that produces rhythm may proceed in  a quite unpredictable flow  (“to  be  or  not  to  be,  that is the  question”—the opening of  Hamlet’s soliloquy)—what is called <emphasis effect="italics">nonmetered </emphasis>or  <emphasis effect="italics">free  rhythm</emphasis>—or may occur  so  as  to  create an underlying <emphasis effect="italics">pulse </emphasis>or  <emphasis effect="italics">beat </emphasis>(“bubble, bubble, toil  and trouble”—four beats coinciding with buh–buh–toil–truh—from the witches’ incantation in Macbeth ). Recurrent groupings of beats by two’s, three’s, or some combination of two’s and three’s, produces <emphasis effect="italics">meter. </emphasis>The  first beat of each metric group is often described as  accented to characterize its defining function in  the rhythmic flow (<emphasis effect="underline">My</emphasis> country <emphasis effect="underline">‘tis</emphasis> of thee, <emphasis effect="underline">sweet</emphasis> land of <emphasis effect="underline">li</emphasis>berty, <emphasis effect="underline">of</emphasis> thee I <emphasis effect="underline">sing</emphasis>—six groups of three beats, each beginning with  the  underlined syllable).</para><para id="import-auto-id1166933327471">Another important rhythmic phenomenon is <emphasis effect="italics">syncopation</emphasis>, which signifies irregular or unexpected stresses  in the  rhythmic flow (for example, straw-<emphasis effect="underline">ber</emphasis>-ry instead of <emphasis effect="underline">straw</emphasis>-ber-ry).  A distinctive sequence of longs and shorts that recurs throughout an individual work or groups of works,  such as  particular dance types, is called a <emphasis effect="italics">rhythmic pattern</emphasis>, <emphasis effect="italics">rhythmic figure, </emphasis>or <emphasis effect="italics">rhythmic motive</emphasis>.</para>
+      <para id="import-auto-id1166928549629"><title><emphasis effect="italics">Pitch</emphasis>       </title><emphasis effect="italics">Pitch </emphasis>refers  to the  location of a musical sound in terms of low or high.  As we have seen, in terms of the  physics of sound, pitch is determined by frequency, or the  number of vibrations per  second: the  faster a sounding object vibrates, the  higher its pitch.</para><para id="import-auto-id1166934015313">Although the  audible range of  frequencies for  human  beings is from  about 20  to under 20,000 vibrations per second, the  upper range of musical pitches is only  around 4,000 from  high to low as well). Each  element of a scale  is called a “step” and the  distance between steps  is called an <emphasis effect="italics">interval</emphasis>. Most Western European music is based on <emphasis effect="italics">diatonic </emphasis>scales—seven- tone scales  comprised of five  “whole steps” (moderate-size intervals) and two  “half steps” (small intervals).  The  position of the  whole and half steps  in  the  ascending ladder of tones determines the  <emphasis effect="italics">mode </emphasis>of the  scale. Major and minor are  two commonly encountered modes, but others are used in folk music, in Western European music before 1700, and in jazz. Another important scale  type  particularly associated with  music from  China, Japan, Korea,  and other Asian cultures is <emphasis effect="italics">pentatonic</emphasis>, a five-note scale comprised of three whole steps and two intervals of a step  and a half.</para><para id="eip-323">Pitch, like temperature, is a sliding scale of infinite gradations. All theoretical systems of music organize this pitch continuum into successions of discrete steps analogous to the degrees on a thermometer.  And just as the Fahrenheit and Celsius systems use different sized increments to measure temperature, different musical cultures have evolved distinctive pitch systems.  The conventional approach to classifying pitch material is to construct a <emphasis effect="italics">scale</emphasis>, an arrangement of the pitch material of a piece of music in order from low to high (and sometimes from high to low as well). Each element of a scale is called a “step” and the distance between steps is called an <emphasis effect="italics">interval</emphasis>.  Most Western European music is based on <emphasis effect="italics">diatonic</emphasis> scales—seven-tone scales comprised of five “whole steps” (moderate-size intervals) and two “half steps” (small intervals).  The position of the whole and half steps in the ascending ladder of tones determines the <emphasis effect="italics">mode</emphasis> of the scale.  Major and minor are two commonly encountered modes, but others are used in folk music, in Western European music before 1700, and in jazz.  Another important scale type particularly associated with music from China, Japan, Korea, and other Asian cultures is <emphasis effect="italics">pentatonic</emphasis>, a five-note scale comprised of three whole steps and two intervals of a step and a half. 
+</para></section>
+    <para id="import-auto-id1166926565587">The starting pitch of a scale  is called the  <emphasis effect="italics">tonic </emphasis>or keynote.  Most  melodies end  on  the tonic of their scale, which functions as a point of rest, the  pitch to which the  others ultimately gravitate in  the  unfolding of  a melody. <emphasis effect="italics">Key </emphasis>is the  combination of  tonic and scale  type. Beethoven’s Fifth Symphony is in C minor because its basic musical materials are drawn from the  minor scale  that starts on  the  pitch C.</para>
+    <para id="import-auto-id1166933264982">A succession of  musical tones perceived as  constituting a meaningful whole is called a <emphasis effect="italics">melody</emphasis>.  By its very  nature, melody cannot be separated from  rhythm.  A musical tone has two fundamental qualities, pitch and duration, and both of these enter into the  succession of pitch plus  duration that constitutes a melody.</para>
+    <para id="import-auto-id1166933480121"><title><emphasis effect="italics">Melody</emphasis></title>Melody can be  synonymous with  tune, but  the  melodic dimension of  music also encompasses configurations of  tones that may not be  singable or  particularly tuneful. Conversely, music may employ pitch material but  not  have a melody, as is the case with  some percussion music.  Attributes of melody include its compass, that is, whether it spans a wide or narrow range of pitches, and whether its movement is predominantly <emphasis effect="italics">conjunct </emphasis>(moving by  step  and therefore smooth in  contour) or  <emphasis effect="italics">disjunct </emphasis>(leaping to  non-adjunct tones and therefore jagged in contour).  Melodies may occur  without additional parts (monophony), in combination with other melodies (polyphony), or supported by harmonies (homophony)—see the  following discussion about Texture.</para><para id="import-auto-id1166934538841">Melodies may be designed like sentences, falling into clauses, or <emphasis effect="italics">phrases</emphasis>.  Indeed, in composing vocal music, composers generally design melodies to parallel the  structure and syntax of the  text  they are  setting. The termination of a musical phrase is called a <emphasis effect="italics">cadence</emphasis>. A full cadence functions like a period, punctuating the  end  of a complete musical thought.  A half cadence is analogous to a comma, marking a pause or intermediate point of rest within a phrase. The refrain of <emphasis effect="italics">Jingle Bells</emphasis>, for example, contains four phrases with  three half cadences and a concluding full cadence:</para>
+    <para id="import-auto-id1166936492722">Jingle  bells,  jingle bells,  jingle all the  way  (half cadence)</para>
+    <para id="import-auto-id1166928706358">Oh,  what fun  it is to ride  in a one  horse open sleigh (half cadence) Jingle  bells,  jingle bells,  jingle all the  way  (half cadence)</para>
+    <para id="import-auto-id1166930023688">Oh, what fun it is to ride in a one horse open sleigh (full cadence, melody descends to the tonic)</para>
+    <para id="import-auto-id1166936236432">In another melodic style, associated more with instrumental than vocal music, melodic material is not  organized in regular, balanced units, but  spins out  in a long, continuous line.</para>
+    <para id="import-auto-id1166925394779"><title><emphasis effect="italics">Texture</emphasis>     </title>Like fabric, music has a <emphasis effect="italics">texture, </emphasis>which may be dense or transparent, thick  or thin, heavy or light. Musical texture also  refers to how  many different layers of sound are  heard at once, to whether these layers have a primarily melodic or an accompaniment function, and to how the  layers relate to each other.  A texture of a single, unaccompanied melodic line  is called <emphasis effect="italics">monophony </emphasis>from the Greek “<emphasis effect="italics">monos</emphasis>” (single, alone) and “<emphasis effect="italics">phone</emphasis>” (sound). Monophony becomes <emphasis effect="italics">heterophony </emphasis>when spontaneous variations of two or more performers produce different versions of the  same melody at the  same time. The simultaneous combination of two or more independent melodies is classified as <emphasis effect="italics">polyphony </emphasis>and of two or more simultaneous rhythmic lines as <emphasis effect="italics">polyrhythm</emphasis>.  Another principal textural category is <emphasis effect="italics">homophony</emphasis>, one dominant melody with accompaniment. These classifications are often useful in describing individual works and repertory groups, but  in practice many works  and styles  do not  fall neatly into one  category. For example, a common texture in jazz entails some instruments whose interaction would be described as polyphonic and others whose function it is to accompany them.</para><para id="import-auto-id1166929999272">Two  important  concepts in  the  analysis and description of  musical textures are counterpoint and harmony.  <emphasis effect="italics">Counterpoint </emphasis>refers  to the  conduct of simultaneously sounding melodic lines, one against  the other.   Rhythmic  counterpoint denotes the unfolding of concurrent rhythmic parts in  polyrhythmic textures.  While counterpoint focuses  on  linear events, <emphasis effect="italics">harmony </emphasis>is concerned with  the  vertical combination of tones that produces chords and successions of chords.</para>
+    <para id="import-auto-id1166933776276">The  Western system of musical notation, while somewhat limited in  the  expression of subtleties of rhythm and pitch, can indicate many simultaneous sounds and has enabled Western composers to  create music of greater textural complexity than that of any other musical tradition.  Principles or rules  of composing multipart, or contrapuntal,  music were first formulated during the Middle Ages and have evolved and changed to reflect new musical aesthetics, performance practices, and compositional techniques.</para>
+    <para id="import-auto-id1166928109204"><title><emphasis effect="italics">Tone  color</emphasis></title><emphasis effect="italics">Tone  color, </emphasis>or timbre, is the distinctive quality of a voice or instrument. Tone color is the result of an acoustic phenomenon known as overtones. In addition to the  fundamental frequency heard as  a sound’s pitch, musical tones contain patterns of  higher frequencies.  Though these higher frequencies, or  overtones, are  not  usually perceived as  pitches in  themselves, their relative presence or absence determines the  characteristic quality of a particular voice or instrument. The prominence of overtones in musical instruments depends on such factors as the  materials from  which they are  made, their design, and how  their sound is produced. Similarly, the  individual physiology of each person’s vocal cords produces a unique speaking and singing voice.   The term tone color  suggests an analogy with  the  visual arts, and indeed the  exploration, manipulation, and combination of instrumental and vocal sound qualities by performers and composers may be compared to the  use  of color  by painters.  Terms  such as <emphasis effect="italics">orchestration, scoring, </emphasis>and <emphasis effect="italics">arranging </emphasis>refer to the  aspect of composition that involves the purposeful treatment of tone color.   A composer may choose to use pure colors  (for example, the  melody played by violins) or mixed colors  (the  melody played by violins and flutes), or to exploit a particular quality of an instrument, such as the  unique sound of the  clarinet in its low  range.  The  art of orchestration encompasses various performance techniques that affect  tone color,  among them the  use of mutes, which are  devices  for altering the  sound of an instrument. In violins and other bowed strings, the  mute is a small comb-shaped device  that is clamped on the  strings, making the  sound veiled  and somewhat nasal.  Brass instruments Brass instruments are muted by inserting various materials into the bell.
+
+</para><para id="eip-351">Although tone color has a scientific explanation, its function in music is aesthetic.  Music is an art of sound, and the quality of that sound has much to do with our response to it.  Indeed, the concept of tonal beauty varies considerably in different periods, styles, and cultures.  On the other hand, within a particular context, ideals of beauty may be quite firmly established and performers often pay extraordinary prices for instruments that can produce that ideal sound.  But no instrument automatically produces a beautiful tone, so the finest violin will produce a rasping, scraping sound in the hands of a beginner.  Even at the most advanced stages of accomplishment, achieving what is considered to be a beautiful tone is a criterion of a good performance. 
+</para><para id="import-auto-id1166936412718">The attitude toward tone color has played an interesting role in the history of Western art music.  Prior to the 18th century, composers were often quite vague, even indifferent, with respect to how their musical ideas would be realized.  It was customary to play music on whatever instruments were at hand and to perform some or all parts of vocal compositions on instruments.  During the 18th century, as composers became more sensitive to the idiomatic quality of instruments, they began to conceive musical ideas in terms of particular tone colors.  In the 19th and 20th centuries, the fascination with expanding and experimenting with the palette of tone colors has elevated the art of orchestration to a level equal to other aspects of the compositional process.</para><para id="import-auto-id1166933847270"><title><emphasis effect="italics">Form</emphasis></title>The interaction of such elements as melody, rhythm, texture, and harmony in the  unfolding of a musical work  produces <emphasis effect="italics">form</emphasis>.  Most  music conforms to one  of the  following three basic formal prototypes:</para><para id="import-auto-id1166934368624">1.   sectional, falling into units of contrasting or repeating content,</para>
+    <para id="import-auto-id1166934937641">2.   continuous, usually involving the development and transformation of one or more germinal ideas,</para>
+    <para id="import-auto-id1166927393829">3.   a combination of sectional and continuous.</para>
+    <para id="import-auto-id1166936366069">In  addition, four  general concepts help in  the  appreciation of many forms: repetition, contrast, return, and variation. The concept of “return” is especially important, for when listeners hear something familiar (that is, something they heard earlier in a work  or performance) the sense of “going home” can be very powerful, whether it takes place in a 45-minute symphony or a four-minute pop  song. One  traditional method of representing these concepts is to use letters of the alphabet to identify individual phrases or sections, AA indicating repetition, AB contrast, ABCD a continuous structure, ABA return, and ABACA a design involving contrast, repetition and return. Capital and lower  case  letters may be used  to distinguish between different levels of formal organization, while symbols for prime (A’, B’ etc) signify restatement of material with some changes. When a section is repeated more than once  with  different changes, additional prime symbols may be used  (ABA’CA’’, for example, where the  second and third A’s are  both versions of the  original “A,” but  different from  each other).</para>
+    <para id="import-auto-id1166934950463">To illustrate, the  chorus of <emphasis effect="italics">Jingle bells </emphasis>would be represented as <emphasis effect="italics">abab’ </emphasis>(<emphasis effect="italics">a </emphasis>for the  repeated music of the  first and third lines,  <emphasis effect="italics">b </emphasis>and <emphasis effect="italics">b’ </emphasis>for the  contrasting music of the  second and fourth phrases with  their different endings -half and full cadences, respectively). The entire song is in ABA form  (A for Jingle  bells….open sleigh), B for the  second section of the  song (Dashing through the  snow…) and A for the  return of the  chorus.</para>
+    <para id="import-auto-id1166937393047">In  variation form, a melody or chord progression is presented successively in  different versions; the  form  could be diagrammed as A A’ A’’ A’’’ and so forth. Changes may be made in  key,  instrumentation, rhythm, or  any number of ways,  but  the  original tune is always recognizable. Aaron Copland’s variations on  the  Shaker tune <emphasis effect="italics">Simple Gifts </emphasis>in his <emphasis effect="italics">Appalachian Spring  </emphasis>is a famous example of  variation  on a tune,  while Pachelbel’s <emphasis effect="italics">Canon  in D </emphasis>might be  considered a series  of variations on  a chord progression. Some  have compared a jazz performance to a kind of variation form, where musicians play a pre-existing tune and then provide a series  of improvised “variations” on  that tune.</para><para id="import-auto-id1166934198662"/>
+  </content>
+</document>
